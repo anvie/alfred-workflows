@@ -1,6 +1,6 @@
 # Script Generator for Terminal Utility
 
-This script generator is designed to increase developer productivity by automating the creation of commonly used terminal commands.
+This alfred workflow for utility script generator, designed to increase developer productivity by automating the creation of commonly used terminal commands.
 
 ## Installation
 
