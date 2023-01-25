@@ -10,6 +10,7 @@ To install the script generator, simply clone the repository and run the setup s
 
 * cropimages - Generate bash script to automatically crop all images in current directory.
 * gitignore - Generate file .gitignore in current directory (iTerm)
+* tbd...
 
 ## Contributing
 
