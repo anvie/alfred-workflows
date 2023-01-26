@@ -4,7 +4,7 @@ This repository is ideal for developers who use Alfredapp to automate and stream
 
 ## Installation
 
-To install the script generator, simply clone the repository and run the setup script:
+Simply clone this repository and then drag-n-drop workflow you want to add into "Workflows" section in AlfredApp Preferences.
 
 ## Available Commands
 
