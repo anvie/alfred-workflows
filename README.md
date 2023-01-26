@@ -1,6 +1,6 @@
 # Collection of Alfred workflows
 
-This repository contains a collection of Alfredapp Workflows that can be used to automate and streamline everyday tasks. The workflows are designed to be intuitive and easy to use, making them a great tool for anyone looking to save time. With these workflows, you can perform actions such as searching through files, initiating web searches, and more with the touch of a button.
+This repository is ideal for developers who use Alfredapp to automate and streamline their workflow. The collection contains various workflows that can be used to automate and streamline their workflow, such as auto-writing Bash scripts, generating random strings and more.
 
 ## Installation
 
