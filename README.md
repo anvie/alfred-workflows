@@ -1,6 +1,6 @@
-# Script Generator for Terminal Utility
+# Collection of Alfred workflows
 
-This alfred workflow for utility script generator, designed to increase developer productivity by automating the creation of commonly used terminal commands.
+This repository contains a collection of Alfredapp Workflows that can be used to automate and streamline everyday tasks. The workflows are designed to be intuitive and easy to use, making them a great tool for anyone looking to save time. With these workflows, you can perform actions such as searching through files, initiating web searches, and more with the touch of a button.
 
 ## Installation
 
@@ -8,9 +8,9 @@ To install the script generator, simply clone the repository and run the setup s
 
 ## Available Commands
 
-* cropimages - Generate bash script to automatically crop all images in current directory.
-* gitignore - Generate file .gitignore in current directory (iTerm)
-* tbd...
+* Random String Generator - Generate random string using OpenSSL command and save it to clipboard.
+* Utility Script Generator - This workflow for utility script generator, designed to increase developer productivity by automating the creation of commonly used terminal commands.
+
 
 ## Contributing
 
